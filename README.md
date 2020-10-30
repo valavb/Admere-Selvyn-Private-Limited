@@ -14,7 +14,7 @@ Following Point must be kept in mind while going throught this assignment
 
 # ScreenShot
 ## 1) index.html -
-    ![index.html](https://github.com/valavb/Admere-Selvyn-Private-Limited/blob/main/Images/1.PNG)
+    ![index.html](https://raw.githubusercontent.com/valavb/Admere-Selvyn-Private-Limited/blob/main/Images/1.PNG)
 ## 2) getting-start.html
     ![index.html](https://github.com/valavb/Admere-Selvyn-Private-Limited/blob/main/Images/2.PNG)
 ## 3) login-method.html
