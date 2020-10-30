@@ -14,10 +14,10 @@ Following Point must be kept in mind while going throught this assignment
 
 # ScreenShot
 ## 1) index.html -
-    ![index.html](https://github.com/valavb/Admere-Selvyn-Private-Limited/tree/main/Images/1.png)
+    ![index.html](https://github.com/valavb/Admere-Selvyn-Private-Limited/Images/1.png)
 ## 2) getting-start.html
-    ![index.html](https://github.com/valavb/Admere-Selvyn-Private-Limited/tree/main/Images/2.png)
+    ![index.html](https://github.com/valavb/Admere-Selvyn-Private-Limited/Images/2.png)
 ## 3) login-method.html
-    ![index.html](https://github.com/valavb/Admere-Selvyn-Private-Limited/tree/main/Images/3.png)
+    ![index.html](https://github.com/valavb/Admere-Selvyn-Private-Limited/Images/3.png)
 ## 4) phone-login.html
-    ![index.html](https://github.com/valavb/Admere-Selvyn-Private-Limited/tree/main/Images/4.png)
+    ![index.html](https://github.com/valavb/Admere-Selvyn-Private-Limited/Images/4.png)
