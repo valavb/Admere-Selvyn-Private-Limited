@@ -22,5 +22,6 @@ Following Point must be kept in mind while going throught this assignment
 ## 4) phone-login.html
 ![index](Images/4.PNG)
 
-## Note - 400 x 754 is the recommended resolution for viewing the website (min resolution - 300 X 754 , max resolution - 440 X 754 )
-## This website is tested in 400 X 754 resolution 
+### Note - 400 x 754 is the recommended resolution for viewing the website (min resolution - 300 X 754 , max resolution - 440 X 754 )
+### This website is tested in 400 X 754 resolution 
+## Live Demo - https://valavb.github.io/Admere-Selvyn-Private-Limited/
