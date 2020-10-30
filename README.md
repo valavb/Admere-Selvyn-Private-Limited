@@ -9,15 +9,18 @@ Following Point must be kept in mind while going throught this assignment
    4.3) Countdown timer
    4.4) Change Mobile no
 5) I have Tested this website on Google Chrome Version 86.0.4240.111
-
-## Note - 400 x 754 is the recommended resolution for viewing the website (min resolution - 300 X 754 , max resolution - 440 X 754 )
+6) If there is any bug let me know about the same.
+7) Code might be futher optimized 
 
 # ScreenShot
 ## 1) index.html -
-    ![index.](https://raw.githubusercontent.com/valavb/Admere-Selvyn-Private-Limited/blob/main/Images/1.PNG)
+![index](Images/1.PNG)
 ## 2) getting-start.html
-    ![geeting start](https://github.com/valavb/Admere-Selvyn-Private-Limited/blob/main/Images/2.PNG)
+![index](Images/2.PNG)
 ## 3) login-method.html
-    ![login method](https://github.com/valavb/Admere-Selvyn-Private-Limited/blob/main/Images/3.PNG)
+![index](Images/3.PNG)
 ## 4) phone-login.html
-    ![phone login](https://github.com/valavb/Admere-Selvyn-Private-Limited/blob/main/Images/4.PNG)
+![index](Images/4.PNG)
+
+## Note - 400 x 754 is the recommended resolution for viewing the website (min resolution - 300 X 754 , max resolution - 440 X 754 )
+## This website is tested in 400 X 754 resolution 
